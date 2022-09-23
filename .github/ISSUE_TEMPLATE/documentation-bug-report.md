@@ -30,7 +30,7 @@ ISSUES MISSING IMPORTANT INFORMATION MAY BE CLOSED WITHOUT INVESTIGATION.
 
 ## Current Behavior
 <!--- If describing a bug, tell us what happens instead of the expected behavior -->
-<!--- Include full errors, uncaught exceptions, how long this has been happening, and requestIds -->
+<!--- Include full errors, uncaught exceptions, how long this has been happening, if you are able to reproduce consistently -->
 <!--- If this is happening only to particular regions/marketplaces, specify -->
 <!--- If service responses are relevant, please include any -->
 <!--- If suggesting a change/improvement, explain the difference from current behavior -->
