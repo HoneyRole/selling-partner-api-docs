@@ -1,3 +1,12 @@
+---
+name: Documentation Bug Report
+about: Report an error in our documentation
+title: "[BUG] Documentation"
+labels: bug, documentation
+assignees: ''
+
+---
+
 <!--
 PLEASE HELP US PROCESS GITHUB ISSUES FASTER BY PROVIDING THE FOLLOWING INFORMATION.
 ISSUES MISSING IMPORTANT INFORMATION MAY BE CLOSED WITHOUT INVESTIGATION.
