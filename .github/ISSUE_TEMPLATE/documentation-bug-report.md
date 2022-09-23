@@ -1,8 +1,8 @@
 ---
-name: Documentation Bug Report
-about: Report an error in our documentation
-title: "[BUG] Documentation"
-labels: bug, documentation
+name: Bug Report
+about: Report an error or outage
+title: "[BUG] [SP-API] [Issue]"
+labels: bug, outage
 assignees: ''
 
 ---
