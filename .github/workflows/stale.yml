@@ -21,7 +21,7 @@ jobs:
     - uses: actions/stale@v5
       with:
         days-before-issue-stale: 180
-        days-before-issue-close: 5
+        days-before-issue-close: 3
         close-issue-message: 'closed for inactivity'
         start-date: '2020-12-10'
         repo-token: ${{ secrets.GITHUB_TOKEN }}
